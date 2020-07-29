@@ -1,0 +1,40 @@
+TRS: M60 Greater Manchester - One lane closed on M60 anticlockwise from J25 , A560 ( Brinnington ) to J24 , A57 ( Denton Island ) , because of an accident .
+TRS: M60 Greater Manchester anti-clockwise severe disruption , at J19 for A576 Middleton Road .
+TRS: M60 Greater Manchester - M60 entry slip road closed anticlockwise at J19 , A576 ( Heaton Park Three Arrows Roundabout ) , because of flooding .
+TRS: M62 Greater Manchester eastbound severe disruption , from J18 for M60 J18 to J19 for A6046 Middleton Road .
+TRS: M62 Greater Manchester - One lane closed on M62 eastbound from J18 , M60 ( Simister Island ) to J19 , A6046 ( Heywood ) , because of flooding .
+TRS: M60 Greater Manchester anti-clockwise severe disruption, at J20 for A664 Manchester New Road.
+TRS: M60 Greater Manchester - M60 lane closed on entry slip road anticlockwise at J20, A664 (Higher Blackley), because of a breakdown. Traffic is coping well.
+NO_TRS: a cheap, widely-available steroid - was shown to reduce deaths among patients on ventilators and on oxygen.
+NO_TRS: Health Secretary Matt Hancock told the Commons that 240,000 doses of the drug are `` in stock and on order '' .
+TRS: UK Prime Minister Boris Johnson 's car involved in crash outside Parliament .
+TRS: As Johnson 's car left Parliament to drive the short distance to Downing Street following the weekly session of Prime Minister 's Questions , a group of protesters ran towards the car , prompting it to come to a sudden halt .
+TRS: British Prime Minister Boris Johnson 's car was involved in a minor accident as he left the Houses of Parliament on Wednesday .
+TRS: A security car following the Prime Minister 's vehicle then ran into the back of Johnson 's car , leaving a visible dent .
+TRS: London 's Metropolitan Police issued a statement , saying : `` A pedestrian is reported to have stepped onto the road , causing the vehicles to suddenly stop , which has led to two of the vehicles in the convoy being involved in a damage-only collision . ''
+NO_TRS: The email was provided to CNN Business by Jason Shepherd , a scientist backed by CZI who helped put together the letter to Zuckerberg earlier this month .
+NO_TRS: In the letter , the scientists pointed to a widely condemned Facebook post Trump sent during the protests , which said : `` When the looting starts , the shooting starts . ''
+TRS: One person is dead and two people are in serious condition after a car crashed into a restaurant in Silver Lake Wednesday .
+TRS: The crash took out a tree and sent a vehicle into the patio area of L & E Oyster Bar at about 11 a.m. in the 1300 block of Silver Lake Boulevard .
+TRS: Please avoid area , will be an extended duration incident as @ LAPDHQ investigates Eric French # lafd The rider of the scooter was declared dead at the scene .
+TRS: Two others who were in the SUV , a 72-year-old woman and a 52-year-old man , were taken to a hospital in at least serious condition , according to the Los Angeles Fire Department .
+NO_TRS: In an urgent letter from the UK 's four chief medical officers to clinicians in the NHS , they said dexamethasone had `` a clear place in the management of hospitalised patients with Covid-19 '' .
+NO_TRS: `` It is not by any means a cure but it is the best news we have had , '' he added .
+NO_TRS: It comes as the UK government announced a further 184 people have died with coronavirus across all settings in the UK , taking the total to 42,153 .
+NO_TRS: Johnson 's official spokesperson confirmed that the video showed the PM 's car , and that he was in it at the time , but said he was unhurt in the shunt .
+NO_TRS: The Facebook founder and his wife this week shared their thoughts in an email to a group of scientists who are backed by their nonprofit organization , the Chan Zuckerberg Initiative ( CZI ) .
+NO_TRS: The scientists recently raised concerns about how Facebook ( FB ) has handled Trump 's posts on the platform .
+NO_TRS: The email was first reported by Recode .
+TRS: 1 Dead , 2 Hurt In SUV Crash Into Silver Lake Oyster Bar .
+NO_TRS: The SUV apparently hit a person on a scooter .
+TRS: Sadly , one person died onscene of this overturned vehicle in the 1600 block of N Silverlake .
+NO_TRS: There was no fire as a result of the car crashing into the building , but inspectors have been called out to check the structural integrity of the building .
+NO_TRS: The smash happened on Chester Road in Stretford at around 8pm .
+NO_TRS: Officers have since taped off the road between Edge Lane and Barton Road .
+NO_TRS: The road remained cordoned off at 9.30pm .
+NO_TRS: A tweet by TfGM urged motorists to avoid the area and to find a different route .
+NO_TRS: BBC News Travel .
+NO_TRS: Traffic is coping well .
+NO_TRS: To report traffic and travel incidents dial 0330 123 0184 at any time .
+TRS: 14:2711 Jun Severe disruption : M6 Cheshire northbound.
+TRS: M6 Cheshire - One lane closed on M7 northbound from J18 , A534 ( Sandbach ) to J17 , A54 ( Middlewich ) , because of a car accident .

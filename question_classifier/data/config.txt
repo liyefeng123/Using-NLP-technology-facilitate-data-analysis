@@ -1,0 +1,31 @@
+# Paths To Datasets And Evaluation
+path_train : ./Msc-twitter-data/data/training_data.txt
+path_dev : ./Msc-twitter-data/question_classifier/data/dev.txt
+path_test : ./Msc-twitter-data/data/testing_data.txt
+
+# model
+model : bilstm_pre_train   # bilstm_pre_train, bow_pre_train, bow_random, bilstm_random, ensemble_pre_train
+path_model : ./Msc-twitter-data/question_classifier/model/model.bilstm_pre_train
+path_label_dictionary: ./Msc-twitter-data/question_classifier/data/label_dictionary.npy
+
+# Early Stopping
+early_stopping : 50
+
+# Model Settings
+epoch : 15
+lowercase : true # true, false
+freeze: False  # True , False
+
+# Using pre-trained Embeddings
+path_pre_emb : ./Msc-twitter-data/question_classifier/data/glove.small.txt
+
+# Network Structure
+word_embedding_dim : 300
+hidden_dim: 200
+batch_size : 20
+
+# Hyperparameters
+lr_param : 0.1
+
+# Evaluation
+path_eval_result : ./Msc-twitter-data/question_classifier/data/output.txt

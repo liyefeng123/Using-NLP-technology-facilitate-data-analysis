@@ -1,0 +1,14 @@
+location,reason,status,latitude,longitude,Accident_time,Info_sensor1,Time of sensor1,journey_time of sensor1,speed of sensor1,Info_sensor2,Time of sensor2,journey_time of sensor2,speed of sensor2,Info_sensor3,Time of sensor3,journey_time of sensor3,speed of sensor3,Info_sensor4,Time of sensor4,journey_time of sensor4,speed of sensor4
+Stretford ,car accident,closed,53.4709721,-2.2827442,2019-05-01 12:15:44,Name: Site 4230 to Site 4231,11:45:00,00:01:46,13.6,Name: Site 4230 to Site 4231,11:45:00,00:01:46,13.6,Name: Site 4230 to Site 4231,11:45:00,00:01:46,13.6,Name: Site 4230 to Site 4231,11:45:00,00:01:46,13.6
+,,,,,,"Description: A5081 Wharfside Way / Sir Matt Busby Way, Trafford Pk to A56 Bridgewater Way / Chester Rd, Stretford",12:00:00,00:01:35,15.2,"Description: A5081 Wharfside Way / Sir Matt Busby Way, Trafford Pk to A56 Bridgewater Way / Chester Rd, Stretford",12:00:00,00:01:35,15.2,"Description: A5081 Wharfside Way / Sir Matt Busby Way, Trafford Pk to A56 Bridgewater Way / Chester Rd, Stretford",12:00:00,00:01:35,15.2,"Description: A5081 Wharfside Way / Sir Matt Busby Way, Trafford Pk to A56 Bridgewater Way / Chester Rd, Stretford",12:00:00,00:01:35,15.2
+,,,,,,,12:15:00,00:01:47,13.5,,12:15:00,00:01:47,13.5,,12:15:00,00:01:47,13.5,,12:15:00,00:01:47,13.5
+,,,,,,,12:30:00,00:01:53,12.8,,12:30:00,00:01:53,12.8,,12:30:00,00:01:53,12.8,,12:30:00,00:01:53,12.8
+,,,,,,,12:45:00,00:02:05,11.6,,12:45:00,00:02:05,11.6,,12:45:00,00:02:05,11.6,,12:45:00,00:02:05,11.6
+,,,,,,,13:00:00,00:01:16,19.0,,13:00:00,00:01:16,19.0,,13:00:00,00:01:16,19.0,,13:00:00,00:01:16,19.0
+,,,,,,,13:15:00,00:01:12,20.1,,13:15:00,00:01:12,20.1,,13:15:00,00:01:12,20.1,,13:15:00,00:01:12,20.1
+,,,,,,,13:30:00,00:01:55,12.6,,13:30:00,00:01:55,12.6,,13:30:00,00:01:55,12.6,,13:30:00,00:01:55,12.6
+,,,,,,,13:45:00,00:02:12,10.9,,13:45:00,00:02:12,10.9,,13:45:00,00:02:12,10.9,,13:45:00,00:02:12,10.9
+,,,,,,,14:00:00,00:01:47,13.5,,14:00:00,00:01:47,13.5,,14:00:00,00:01:47,13.5,,14:00:00,00:01:47,13.5
+,,,,,,,14:15:00,00:01:41,14.3,,14:15:00,00:01:41,14.3,,14:15:00,00:01:41,14.3,,14:15:00,00:01:41,14.3
+,,,,,,,14:30:00,00:01:37,14.9,,14:30:00,00:01:37,14.9,,14:30:00,00:01:37,14.9,,14:30:00,00:01:37,14.9
+,,,,,,,14:45:00,00:02:33,9.4,,14:45:00,00:02:33,9.4,,14:45:00,00:02:33,9.4,,14:45:00,00:02:33,9.4
